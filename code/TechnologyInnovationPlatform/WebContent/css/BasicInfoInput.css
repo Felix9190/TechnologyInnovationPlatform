@@ -1,0 +1,63 @@
+@charset "UTF-8";
+.t
+{
+	width: 40%;
+}
+
+body
+{
+	margin:0;
+	padding:0;
+	background-color: #ececec;
+}
+
+table
+{
+	table-layout: fixed;
+	border-collapse:collapse;
+    border:1px solid #7a7a7a;
+}
+td 
+{
+    border:1px solid #7a7a7a;
+}
+#box3
+{
+	top:0px;
+	left:0px;
+    width:200px;
+    height:200px;
+    position:relative; 
+}
+#box4
+{
+	top:0px;
+	left:220px;
+	width:800px;
+    height:200px;
+    position:absolute; 
+}
+#box5
+{
+	top:570px;
+	left:500px;
+	width:200px;
+    height:200px;
+    position:absolute; 
+}
+#box6
+{
+	top:570px;
+	left:650px;
+    width:200px;
+    height:200px;
+    position:absolute; 
+}
+#top
+{
+	top:20px;
+	right:0px;
+	width:400px;
+    height:200px;
+    position:absolute; 
+}

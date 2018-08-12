@@ -1,0 +1,23 @@
+@charset "UTF-8";
+body
+{
+	margin: 0;
+	padding:0;
+	background-color: #ececec;
+}
+
+td
+{
+	text-align: center;
+}
+.LookByEconomy_left
+{
+	width:30%;
+	height:800px;
+}
+.LookByEconomy_right
+{
+	width:70%;
+	height:800px;
+	float:right;
+}

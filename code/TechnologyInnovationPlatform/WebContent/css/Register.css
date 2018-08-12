@@ -1,0 +1,65 @@
+@charset "UTF-8";
+a:link {color: blue}          
+a:visited {color: blue}          
+a:hover {color: #808080}            
+a:active {color: #808080}
+
+a
+{  
+	text-decoration:none;  
+} 
+
+span,img
+{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+body
+{
+	margin:0;
+	padding:0;
+	background-color: #ececec;
+}
+
+.main
+{
+	width:800px;
+	height:800px;
+	margin:0 auto;
+	background-color: white;
+}
+
+.top
+{
+	height:30px;
+	background-color: #ececec;
+}
+
+.top_left
+{
+	float:left;
+}
+
+.top_right
+{
+	float:right;
+}
+
+.content
+{
+	width:800px;
+}
+
+.content_left
+{
+	width:250px;
+	height:800px;
+	float:left;
+}
+.content_right
+{
+	width:550px;
+	height:800px;
+	float:left;
+}
