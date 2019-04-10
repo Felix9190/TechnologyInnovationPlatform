@@ -1,1 +1,1 @@
-# My Second JavaWeb Project
+# MySecondProject
